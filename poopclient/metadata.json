@@ -1,0 +1,8 @@
+{
+  "name": "poop",
+  "description": "shit",
+  "author": "Scalesy",
+  "entry": "poop.js",
+  "requires":["RenderLib", "requestV2"],
+  "version":"poop.0"
+}
